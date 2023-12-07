@@ -1,6 +1,6 @@
 # SecuritySystemUsingRpi4
 ## Main idea
-The project implement in this repository is a 3-step authentication security system that can 
+The project implemented in this repository is a 3-step authentication security system that can 
 be widely used in companies, schools, universities, etc.… The three steps are 
 fingerprint recognition, face mask detection and temperature scanning. 
 ___
