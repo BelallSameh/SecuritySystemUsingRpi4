@@ -1,7 +1,7 @@
 # SecuritySystemUsingRpi4
 ## Main idea
 The project implemented in this repository is a 3-step authentication security system that can 
-be widely used in companies, schools, universities, etc.…
+be widely used in companies, schools, universities, etc.
 ___
 - This a security system project built using raspberry pi 4 model B.
 - The system is built with 3 different authentication levels:
