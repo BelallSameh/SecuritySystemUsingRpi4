@@ -1,4 +1,9 @@
 # SecuritySystemUsingRpi4
+## Main idea
+The project implement in this report is a 3-step authentication security system that can 
+be widely used in companies, schools, universities, etc.… The three steps are 
+fingerprint recognition, face mask detection and temperature scanning. 
+___
 - This a security system project built using raspberry pi 4 model B.
 - The system is built with 3 different authentication levels:
   1. Fingerprint recognition
