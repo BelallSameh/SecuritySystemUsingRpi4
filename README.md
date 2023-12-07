@@ -12,5 +12,5 @@ ___
 - The repository includes:
   1. Full project code with all authentication levels
   2. Trained Face mask detection model derived from the link below with all the model parameters and training accuracy.
-  3. A full documentaion of the project
+  3. A full documentation of the project
 - https://www.tomshardware.com/how-to/raspberry-pi-face-mask-detector
