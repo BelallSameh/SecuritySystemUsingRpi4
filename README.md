@@ -1,4 +1,4 @@
-# 🔒 SecuritySystemUsingRpi4 🔒
+# 🔒 Security System Using Rpi4 🔒
 
 ## 🛡️ Main Idea
 
