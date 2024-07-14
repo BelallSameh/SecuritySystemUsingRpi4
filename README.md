@@ -18,7 +18,7 @@ The **SecuritySystemUsingRpi4** project implements a sophisticated 3-step authen
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/SecuritySystemUsingRpi4.git
+    git clone https://github.com/BelallSameh/SecuritySystemUsingRpi4.git
     cd SecuritySystemUsingRpi4
     ```
 
